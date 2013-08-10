@@ -1,0 +1,8 @@
+# Compiled source #
+###################
+*.pyc
+
+# Settings #
+###################
+cms/settings.py
+
